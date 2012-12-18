@@ -1,0 +1,17 @@
+body, html {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
+}
+
+#ide {
+}
+
+#textarea {
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	top: -30px;
+	left: 0;
+}
