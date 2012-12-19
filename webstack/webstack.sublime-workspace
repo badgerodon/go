@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cer",
+				"Certificates"
+			],
+			[
+				"Backend",
+				"BackEndConfig"
+			],
+			[
+				"Backen",
+				"BackEnd"
+			],
+			[
+				"Back",
+				"BackEndConfigEntry"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/web.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/installssh",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/compress.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/deploy.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/deployer.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/load_balancer.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/net.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/backend.json",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/main.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/frontend.json",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/deploy.sh",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/main.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/node/settings.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/frontend.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/backend.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/deploy.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/load_balancer/handler.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/server.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/main.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/server.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/deployer.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/example/web/gow.json",
+		"/D/projects/finalblessing/web/package.json",
+		"/D/projects/go/src/github.com/badgerodon/webstack/example/server/config.json",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/compress.go",
+		"/D/dropbox/projects/go/src/bitbucket.org/calebdoxsey/doxsey.net/db/blog/2012/chrysostom.post",
+		"/D/dropbox/projects/go/src/bitbucket.org/calebdoxsey/doxsey.net/db/blog/2012/node.post",
+		"/D/dropbox/projects/go/src/bitbucket.org/calebdoxsey/doxsey.net/out.txt",
+		"/D/dropbox/projects/go/src/bitbucket.org/calebdoxsey/doxsey.net/.git/config",
+		"/D/dropbox/projects/go/src/bitbucket.org/calebdoxsey/doxsey.net/db/blog/2012/hanson.post",
+		"//CALEB-MINI/caleb/Downloads/games/XCOM_Enemy_Unknown-FLT/fairlight.nfo",
+		"/D/projects/finalblessing/web/Procfile",
+		"/C/Users/caleb/AppData/Local/Temp/deployed-1352088770370713200/gow.json",
+		"/D/projects/go/src/github.com/badgerodon/webstack/gow/codec.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/reverse-proxy.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/web.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/worker.go",
+		"/D/projects/go/src/github.com/badgerodon/webstack/example/server/server.pem",
+		"/D/projects/go/src/github.com/badgerodon/webstack/example/server/server.crt",
+		"/D/projects/go/src/github.com/badgerodon/scale/reverse_proxy.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/main.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/worker/main.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/reverse-proxy/main.go",
+		"/D/projects/go/src/github.com/badgerodon/scale/web/main.go"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

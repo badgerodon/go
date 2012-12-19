@@ -1,0 +1,6 @@
+{
+	"role": "web",
+	"type": "node",
+	"command": "node web.js",
+	"scale": 4
+}

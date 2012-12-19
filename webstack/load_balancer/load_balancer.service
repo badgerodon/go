@@ -1,0 +1,7 @@
+[Unit]
+Description=Load Balancer
+
+[Service]
+ExecStart=/deploy/load_balancer/load_balancer
+WorkingDirectory=/deploy/load_balancer
+Restart=always

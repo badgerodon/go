@@ -1,0 +1,19 @@
+[
+	{
+		"domain": "www.finalblessing.com",
+		"ssl": {
+			"certificate": "finalblessing.pem",
+			"key": "finalblessing.key"
+		}
+	},
+	{
+		"domain": "www.doxsey.net"
+	},
+	{
+		"domain": "localhost",
+		"ssl": {
+			"certificate": "finalblessing.pem",
+			"key": "finalblessing.key"
+		}		
+	}
+]

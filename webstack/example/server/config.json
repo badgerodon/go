@@ -1,0 +1,6 @@
+{
+	"certificate": "server.crt",
+	"key": "server.pem",
+	"port": 9000,
+	"password": "5259ACB4D3A33A531BC55CF20766D87BA178A9158A7231B3B76085855A4F7267"
+}

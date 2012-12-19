@@ -1,0 +1,24 @@
+# install ssh
+pacman -S openssh
+systemctl enable sshd.socket
+systemctl start sshd.socket
+
+# install sudo
+pacman -S sudo
+
+# edit /etc/sudoers, allow execution without password for wheel group
+
+# add caleb to wheel
+gpasswd -a caleb wheel
+
+# install ufw
+pacman -S ufw
+systemctl enable ufw
+systemctl start ufw
+ufw default deny
+ufw allow SSH
+ufw allow 80
+ufw allow 443
+ufw allow 9000
+ufw enable
+
