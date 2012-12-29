@@ -3,7 +3,7 @@ package css
 import (
 	//"log"
 	"strings"
-	. "github.com/badgerodon/dom"
+	. "github.com/badgerodon/go/dom"
 )
 
 type Filter func(Node)bool

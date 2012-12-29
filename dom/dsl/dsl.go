@@ -2,7 +2,7 @@ package dsl
 
 import (
 	"fmt"
-	. "github.com/badgerodon/dom"
+	. "github.com/badgerodon/go/dom"
 )
 
 func add(node Node, nodes ... interface{}) {

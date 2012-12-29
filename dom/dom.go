@@ -5,6 +5,7 @@ import (
 	"encoding/xml"
 	//"fmt"
 	"io"
+	"sort"
 )
 
 type (
@@ -206,7 +207,7 @@ func (this *Element) Export(w io.Writer) {
 		keys = append(keys, k)
 	}
 	sort.Strings(keys)
-	for k := range keys {
+	for _, k := range keys {
 		v := this.attributes[k]
 		io.WriteString(w, " ")
 		xml.Escape(w, []byte(k))

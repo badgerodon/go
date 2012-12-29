@@ -4,8 +4,8 @@ import (
 	//"fmt"
 	"testing"
 
-	. "github.com/badgerodon/dom"
-	. "github.com/badgerodon/dom/dsl"
+	. "github.com/badgerodon/go/dom"
+	. "github.com/badgerodon/go/dom/dsl"
 )
 
 type (
