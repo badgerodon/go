@@ -1,6 +1,7 @@
 package sdl
 
 // #cgo CFLAGS: -Iinclude
+// #cgo darwin LDFLAGS: -lSDL
 // #cgo windows LDFLAGS: -Llib/windows/amd64 -lSDL
 // #include <SDL/SDL.h>
 import "C"

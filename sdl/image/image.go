@@ -1,6 +1,7 @@
 package image
 
 // #cgo CFLAGS: -Iinclude
+// #cgo darwin LDFLAGS: -lSDL_image
 // #cgo windows LDFLAGS: -Llib/windows/amd64 -lSDL_image
 // #include <SDL/SDL_image.h>
 import "C"

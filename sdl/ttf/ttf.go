@@ -1,8 +1,8 @@
 package ttf
 
 // #cgo CFLAGS: -Iinclude/
-// #cgo windows LDFLAGS: -Llib/windows/amd64
-// #cgo LDFLAGS: -lSDL_ttf
+// #cgo darwin LDFLAGS: -lSDL_ttf
+// #cgo windows LDFLAGS: -Llib/windows/amd64 -lSDL_ttf
 // #include <SDL/SDL_ttf.h>
 import "C"
 
