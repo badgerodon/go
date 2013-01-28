@@ -1,0 +1,45 @@
+/*
+ *= require normalize
+ */
+
+html, body {
+	height: 100%;	
+	font-family: "Life Savers";
+}
+
+body {
+	background: #333;
+	color: #CCC;
+}
+
+#outer {
+	background: #111;
+	border: 1px solid #666;
+	border-top: none;
+	border-bottom: none;
+	margin: 0 auto;
+	width: 750px;
+	min-height: 100%;
+}
+#inner {
+	padding: 20px;
+}
+
+h1 {
+	font-size: 36px;
+}
+h1, h2 {
+	margin: 0 0 20px;
+}
+
+.post {
+	background: #000;
+	border: 1px solid #222;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+	.post .body {
+		border-top: 1px dotted #333;
+		padding-top: 5px;
+		margin-top: 5px;
+	}
